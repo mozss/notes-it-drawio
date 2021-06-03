@@ -1,0 +1,49 @@
+<mxfile>
+    <diagram id="QiGi110JbqVUGbAyIUx-" name="第 1 页 - MySQL体系结构">
+        <mxGraphModel dx="1060" dy="681" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="16" value="" style="group" vertex="1" connectable="0" parent="1">
+                    <mxGeometry x="80" y="70" width="630" height="440" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="支持的接口&lt;br&gt;(jdbc,odbc,net...)" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry y="30" width="430" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry y="110" width="420" height="330" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="管理服务工具" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="10" y="140" width="70" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="连接池" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="130" y="140" width="260" height="20" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="sql接口" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="130" y="180" width="50" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="解析器" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="185" y="180" width="60" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="9" value="优化控制器" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="250" y="180" width="70" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" value="缓存和缓存池" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="330" y="180" width="70" height="100" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" value="插件式存储引擎&lt;br&gt;(MyISAM,InnoDB,Cluster...)" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="20" y="290" width="400" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="文件系统" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="11" y="370" width="179" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" value="文件和日志" style="whiteSpace=wrap;html=1;fontSize=24;" parent="16" vertex="1">
+                    <mxGeometry x="240" y="370" width="160" height="60" as="geometry"/>
+                </mxCell>
+                <mxCell id="yp5dx1ZpYkqr_N2vDcW8-15" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="16" vertex="1">
+                    <mxGeometry x="510" width="120" height="60" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
