@@ -1,9 +1,8 @@
-# Notes-Diagram-Drawio
+# Notes-it-Drawio
 
 ## 前言
 
-  本仓库主要存放，学习和工作中遇到的流程图,原理图,架构图…… 
-  绘图使用的工具为Draow.io。
+  本仓库主要存放，drawio绘制的一些图表。
 
 ## 基础篇
 
